@@ -14,7 +14,7 @@ class _ClassificationModelApiService implements ClassificationModelApiService {
     this.baseUrl,
     this.errorLogger,
   }) {
-    baseUrl ??= 'https://tranquilo-ai-production.up.railway.app/';
+    baseUrl ??= 'https://mahmoud763-tran.hf.space/';
   }
 
   final Dio _dio;

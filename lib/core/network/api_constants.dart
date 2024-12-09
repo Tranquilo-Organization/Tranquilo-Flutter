@@ -5,7 +5,7 @@ class ApiConstants {
       "https://tranquilo-chatbot-production.up.railway.app/";
 
   static const String classificationModelUrl =
-      'https://tranquilo-ai-production.up.railway.app/';
+      'https://mahmoud763-tran.hf.space/';
 
   static const String login = "account/login";
   static const String signUp = "account/register";
